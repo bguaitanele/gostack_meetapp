@@ -6,7 +6,7 @@ Ter instalado:
 
 - Node
 - Yarn
-- Backend rodando (https://github.com/bguaitanele/rocketseat-meetapp)
+- Backend rodando
 - React-native cli instalado (https://www.npmjs.com/package/react-native-cli)
 - Simulador de android ou ios, ou smartphone android ou ios
 - Expo instalado (https://docs.expo.io/versions/v35.0.0/get-started/installation/)
@@ -14,9 +14,10 @@ Ter instalado:
 
 ## Passos para instalação
 
+Todos os comandos solicitados devem ser executados na raiz do projeto "mobile".
+
 ### Preparando código
 
-- Baixe o projeto do git
 - Na raiz do projeto rode o comando abaixo para instalar as dependências:
 
 ```

@@ -11,9 +11,10 @@ Ter instalado:
 
 ## Passos para instalação
 
+Todos os comandos solicitados devem ser executados na raiz do projeto "backend".
+
 ### Preparando código
 
-- Baixe o projeto do git
 - Na raiz do projeto rode:
 
 ```

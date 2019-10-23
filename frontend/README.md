@@ -6,13 +6,14 @@ Ter instalado:
 
 - Node
 - Yarn
-- Backend rodando (https://github.com/bguaitanele/rocketseat-meetapp)
+- Backend rodando
 
 ## Passos para instalação
 
+Todos os comandos solicitados devem ser executados na raiz do projeto "frontend".
+
 ### Preparando código
 
-- Baixe o projeto do git
 - Na raiz do projeto rode o comando abaixo para instalar as dependências:
 
 ```

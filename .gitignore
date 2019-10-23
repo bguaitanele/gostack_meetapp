@@ -4,6 +4,8 @@
 **/*/npm-debug.*
 **/*/yarn-debug.log*
 **/*/yarn-error.log*
+
+/backend/tmp/uploads/*
 mobile//.expo/*
 mobile/*.jks
 mobile/*.p8
